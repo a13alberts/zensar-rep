@@ -1,1 +1,2 @@
 Read the instructions about Git and Github here 
+changed in sample branch
